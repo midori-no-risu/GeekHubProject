@@ -1,0 +1,28 @@
+# Document root
+/web/.htaccess
+/web/bundles/*
+/web/cache/*
+/web/css/*
+/web/css/common.min.css
+/web/less/compile/temp/*
+/web/js/*
+/web/i18n/*
+
+# PHPStorm/WebStorm files
+.idea
+
+/web
+
+# Exercise app
+/app/bootstrap.php
+/app/bootstrap.php.cache
+/app/cache/*
+/app/config/config*_local.yml
+/app/data/*
+/app/logs/*
+/app/phpunit.xml
+
+#vendors
+/vendor/*
+
+composer.phar
